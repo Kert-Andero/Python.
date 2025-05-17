@@ -11,7 +11,7 @@ Loo muutuja keskmine_hinne, mis sisaldab kasutaja keskmist hinnet (float)
 Trüki välja lause, mis ühendab kõik kolm muutujat, nt: “Karin, 18 aastat vana ja keskmine hinne on 4.7”
 """
 
-nimi = "Üllar"
+nimi = "Toomas"
 vanus = 18
 keskmine_hinne = 3.8
 print(nimi+", "+str(vanus)+" aastat vana ja keskmine hinne on "+str(keskmine_hinne))
